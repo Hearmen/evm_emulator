@@ -1,4 +1,4 @@
-#ETH emulator
+# ETH emulator
 
 eth emulator is an Ethereum bytecode emulator based on [octopus](https://github.com/quoscient/octopus)
 
@@ -59,5 +59,5 @@ emul.emulate(callinfo, state)
 ```
 
 
-#Refenrence
+# Refenrence
 https://github.com/quoscient/octopus
